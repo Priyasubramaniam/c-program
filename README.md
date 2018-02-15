@@ -1,7 +1,7 @@
 // c-program
 // first and last x digits are same
-# include<stdio.h>
-# include<string.h>
+#include<stdio.h>
+#include<string.h>
 int main()
 {
 int i,temp,n,len;
